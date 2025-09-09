@@ -84,3 +84,5 @@ We have a slack channel! [Kubernetes/#brigade](https://kubernetes.slack.com/mess
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbrigadecore%2Fbrigade.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbrigadecore%2Fbrigade?ref=badge_large)
 
 <!-- Security scan triggered at 2025-09-02 14:29:18 -->
+
+<!-- Security scan triggered at 2025-09-09 05:48:56 -->
