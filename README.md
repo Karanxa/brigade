@@ -90,3 +90,5 @@ We have a slack channel! [Kubernetes/#brigade](https://kubernetes.slack.com/mess
 <!-- Security scan triggered at 2025-09-09 05:55:18 -->
 
 <!-- Security scan triggered at 2025-09-28 15:58:27 -->
+
+<!-- Security scan triggered at 2025-09-28 16:05:14 -->
